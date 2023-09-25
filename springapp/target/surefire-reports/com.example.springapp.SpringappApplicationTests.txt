@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.springapp.SpringappApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.29 s <<< FAILURE! - in com.example.springapp.SpringappApplicationTests
+AddStudent  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<200> but was:<405>
+	at com.example.springapp.SpringappApplicationTests.AddStudent(SpringappApplicationTests.java:35)
+
